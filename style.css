@@ -85,8 +85,9 @@ h2 {
 }
 
 .proyecto1 .sobreimg {
-	top:80px;
-	width:100%;
+	top:120px;
+	left:25%;
+	width:50%;
 	position: absolute;
 }
 
