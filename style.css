@@ -1,0 +1,104 @@
+body {
+  font-family: "Poppins", sans-serif;
+  margin:0;
+}
+
+p {
+	font-weight: 300;
+}
+
+h2 {
+	text-align: center;
+}
+
+.header {
+	background-color: #FFD502;
+	height:50px;
+	padding:10px;
+}
+
+.header ul {
+	list-style-type: none;
+	margin-left:-30px;
+	display:inline-flex;
+}
+.header img {
+	margin: -10px 0px 0px 0px;
+	padding-right:20px;
+}
+
+.intro {
+	width:100%;
+	position: relative;
+}
+
+.intro .sobreimg{
+	position:absolute;
+	margin:20px;
+	bottom:20px;
+	margin-top: 80px;
+}
+
+.primerscroll {
+	position: relative;
+	z-index: 20;
+}
+
+.primerscroll img {
+	position:fixed;
+	top:100px;
+	right: 50px;
+}
+
+.bloques {
+	width: 90%;
+	display: flex;
+	margin:auto;
+
+}
+
+.bloquesdoble {
+	width: 50%;
+}
+
+.bloque {
+	background-color: #6b6b6b;
+	margin-top:20px;
+}
+
+
+.bloque div {
+	margin: 20px;
+}
+
+.bloquesing {
+	padding:10px;
+	width: 50%;
+	margin: -10px 20px;
+	display: inline;
+}
+
+.proyecto1 {
+	text-align: center;
+	margin:auto;
+	position: relative;
+}
+
+.proyecto1 .sobreimg {
+	top:80px;
+	width:100%;
+	position: absolute;
+}
+
+.scroll {
+	position:sticky;
+	top:165px;
+	z-index: 19;
+	background:transparent;
+	float: right;
+	margin-right:50px;
+}
+
+#tercerlego {
+	top: 230px;
+}
