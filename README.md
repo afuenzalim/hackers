@@ -12,3 +12,4 @@ Para asegurarme de que todas pueden editar:
 9. Ir al repositorio en github y verificar que se subieron. Puede que se tarde unos minutos en actualizar :D
 
 Angela Fuenzalida
+Antonia Zúñiga
