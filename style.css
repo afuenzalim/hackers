@@ -11,6 +11,10 @@ h2 {
 	text-align: center;
 }
 
+img {
+	object-fit: cover;
+}
+
 .header {
 	background-color: #FFD502;
 	height:50px;
@@ -51,10 +55,10 @@ h2 {
 }
 
 .bloques {
-	width: 90%;
+	width: 80%;
 	display: flex;
 	margin:auto;
-
+	margin-left:10%;
 }
 
 .bloquesdoble {
@@ -62,32 +66,60 @@ h2 {
 }
 
 .bloque {
-	background-color: #6b6b6b;
+	background-color: #FFE52F;
 	margin-top:20px;
+	overflow: hidden;
 }
 
 
 .bloque div {
 	margin: 20px;
+	min-height: 330px;
+	max-height: 700px;
+	align-content: center;
 }
+
+#rojo {
+	background-color: #871EE3; 
+	color: white;
+	color: white;
+}
+
+#amarillo {
+	background-color:#BD0000;
+	color: white;
+}
+
+#largo {
+	min-height: 705px;
+	max-height: 1420;
+	align-content: start;
+	background-color:#FFE52F ;
+	padding:30px 30px 0px 30px; 
+}
+
+#largo h3 {
+	text-align: center;
+}
+
 
 .bloquesing {
 	padding:10px;
 	width: 50%;
 	margin: -10px 20px;
-	display: inline;
 }
 
 .proyecto1 {
 	text-align: center;
 	margin:auto;
 	position: relative;
+	color: white;
 }
 
 .proyecto1 .sobreimg {
-	top:120px;
-	left:25%;
-	width:50%;
+	top:200px;
+	left:30%;
+	width:40%;
 	position: absolute;
 }
 
