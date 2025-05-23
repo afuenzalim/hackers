@@ -79,14 +79,13 @@ img {
 	align-content: center;
 }
 
-#rojo {
-	background-color: #871EE3; 
-	color: white;
+#azul {
+	background-color: #0166A8; 
 	color: white;
 }
 
-#amarillo {
-	background-color:#BD0000;
+#rojo {
+	background-color:#FE1C1A;
 	color: white;
 }
 
