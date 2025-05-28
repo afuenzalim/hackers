@@ -141,11 +141,11 @@ img {
 
 .autor {
 	background-image: url(img/levin.png);
-	background-size: 100%;
+	background-size: cover;
+	background-position-x: center;
 	margin:auto;
 	width:80%;
 	height:600px;
-
 	align-content: center;
 	margin-bottom: -60px;
 }
