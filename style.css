@@ -11,6 +11,19 @@ img {
 	object-fit: cover;
 }
 
+a:link {
+	color: white
+}
+
+a:visited {
+	color:#FBC42A;
+}
+
+a:hover {
+	color:#FBC42A;
+	transition: color 0.3s ease 
+}
+
 .intro {
 	display: table;
 	margin: auto;
@@ -249,6 +262,7 @@ img {
 .referencias {
 	position: relative;
 	width: 100%;
+	margin: 0;
 }
 
 .sobreimg5 {
