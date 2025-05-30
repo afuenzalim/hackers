@@ -92,6 +92,10 @@ a:hover {
 	margin-bottom:30px;
 }
 
+.bloques h3 {
+	color: white;
+}
+
 .bloqueimg1 {
 	display: inline-flex;
 	color: white;
@@ -270,4 +274,11 @@ a:hover {
 	top: 20%;
 	left: 12%;
 	color: white;
+}
+
+#diagrama {
+	display: table;
+	width: 70%;
+	margin:auto;
+	padding: 30px 0 0 0;
 }
